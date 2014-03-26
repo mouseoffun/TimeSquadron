@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1394469636
+#1395758595
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -55,6 +55,10 @@ images\tiledbackground9.png
 images\runway-sheet0.png
 images\planeground-sheet0.png
 images\ground1-sheet0.png
+images\fortress.png
+images\fortress2.png
+images\fortessbit1-sheet0.png
+images\fortress3.png
 images\distanceline-sheet0.png
 images\a10-sheet0.png
 images\healthbar.png
@@ -127,14 +131,11 @@ images\smoke2.png
 images\tank-sheet0.png
 images\launcherb-sheet0.png
 images\turrettop5-sheet0.png
-images\fortress2.png
-images\fortress3.png
-images\fortessbit1-sheet0.png
 images\fortesshit-sheet0.png
-images\fortress.png
 images\laser-sheet0.png
-images\towershadow-sheet0.png
 images\bomber3shadow-sheet0.png
+images\fighter3shadow-sheet0.png
+images\fighter3shadow-sheet1.png
 images\playerw2p1-sheet0.png
 images\playerw2p1-sheet1.png
 images\playerw2p1-sheet2.png
@@ -194,7 +195,6 @@ images\zeppelingun-sheet0.png
 images\zeppelinshadow-sheet0.png
 images\baron-sheet0.png
 images\baron-sheet1.png
-images\baron-sheet2.png
 images\baronshadow-sheet0.png
 images\baronshadow-sheet1.png
 images\baronshadow-sheet2.png
@@ -212,8 +212,7 @@ images\rocketsdisplay3.png
 images\alliedbomber-sheet0.png
 images\alliedbombershadow-sheet0.png
 images\blackfadeout.png
-images\sprite-sheet0.png
-images\sprite3-sheet0.png
+images\a10b-sheet0.png
 images\bombs-sheet0.png
 images\bombs-sheet1.png
 images\tiledsand.png
@@ -234,6 +233,25 @@ images\grenade-sheet0.png
 images\grenadedot-sheet0.png
 images\playbutton-sheet0.png
 images\playbutton-sheet1.png
+images\tiledbackground12.png
+images\tiledbackground14.png
+images\fan-sheet0.png
+images\tiledbackground16.png
+images\fortresstarget-sheet0.png
+images\sprite4-sheet0.png
+images\blackbox-sheet0.png
+images\sprite5-sheet0.png
+images\sprite5-sheet1.png
+images\sprite6-sheet0.png
+images\sprite6-sheet1.png
+images\moregames-sheet0.png
+images\sprite-sheet0.png
+images\info-sheet0.png
+images\quit-sheet0.png
+images\quitno-sheet0.png
+images\quitno-sheet1.png
+images\quityes-sheet0.png
+images\quityes-sheet1.png
 media\bomb-falling-and-exploding-02.m4a
 media\bomb-falling-and-exploding-02.ogg
 media\high_definition_machine_gun-wel-2006923900%20(1)2.m4a
@@ -273,7 +291,5 @@ armalite_rifle-webfont.svg
 armalite_rifle-webfont.ttf
 armalite_rifle-webfont.woff
 stylesheet3.css
-spilgames.js
-
 NETWORK:
 *
